@@ -1,0 +1,2 @@
+# permute
+word / wordlist permutation
